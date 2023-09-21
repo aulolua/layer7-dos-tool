@@ -8,7 +8,7 @@ This simple tool measures upload speed, download speed, and requests per second 
 2. Open a command prompt or terminal.
 3. Navigate to the directory containing the compiled program or the source code.
 4. Run the program using the following command:
-   or
+### OR
 1. Download speed.exe and dll files etc from releases of this github repo
 2. Open Command Prompt or Terminal
 3. navigate to downloaded file
