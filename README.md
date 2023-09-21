@@ -9,7 +9,7 @@ This simple tool measures upload speed, download speed, and requests per second 
 3. Navigate to the directory containing the compiled program or the source code.
 4. Run the program using the following command:
 ### OR
-1. Download speed.exe and dll files(or the (zip)[https://github.com/aulolua/layer7-dos-method/releases/download/alpha/speed.zip]) etc from releases of this github repo
+1. Download speed.exe and dll files(or the [zip](https://github.com/aulolua/layer7-dos-method/releases/download/alpha/speed.zip) etc from releases of this github repo
 2. Open Command Prompt or Terminal
 3. navigate to downloaded file
 4. Run the Program using the code in next block.
